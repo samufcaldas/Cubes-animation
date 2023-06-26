@@ -4,4 +4,4 @@
 Animações de cubo caindo feito com Three.js
 
 ## EN
-Animações de cubo caindo feito com Three.js
+Falling cube animations made with Three.js
