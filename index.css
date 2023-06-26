@@ -1,0 +1,17 @@
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 12000;
+}
+
+.ui-buttons {
+  position: absolute !important;
+  z-index: 10000;
+}
+
+.ui-buttons #roll-btn {
+  background-color: transparent;
+  color: black;
+  border: none;
+}
